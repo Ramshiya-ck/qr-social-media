@@ -16,7 +16,7 @@ const profileData = {
     logo,
   social: {
     instagram: "https://www.instagram.com/yasmart_hyper?igsh=MXVlYnAyMGIwYXh3eA==",
-    whatsapp: "https://wa.me/15551234567",
+    whatsapp: "https://wa.me/9746093590",
     whatsappChannel: "https://whatsapp.com/channel/your-channel-id",
     facebook: "https://www.facebook.com/share/17cKtHdrye/",
     website: "https://your-portfolio.com",
