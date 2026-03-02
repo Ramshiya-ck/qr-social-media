@@ -22,7 +22,6 @@ const profileData = {
     website: "https://your-portfolio.com",
   },
 };
-
 export default function LandingPage() {
   const [showWhatsAppOptions, setShowWhatsAppOptions] = React.useState(false);
 
