@@ -24,7 +24,7 @@ export default function QRCodeGenerator() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4 py-10 text-emerald-950">
+    <div className="min-h-screen bg-gradient-to-b from-white via-emerald-50 to-white flex items-center justify-center px-4 py-10 text-emerald-950">
       <div className="w-full max-w-sm sm:max-w-md">
         <div className="rounded-3xl bg-white/95 border border-emerald-100 shadow-[0_24px_80px_rgba(5,46,22,0.25)] backdrop-blur-2xl px-6 py-8 sm:px-8 sm:py-10 flex flex-col items-center text-center gap-6">
           <div className="space-y-2">

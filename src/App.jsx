@@ -6,7 +6,7 @@ import QRCodeGenerator from "./components/QRCodeGenerator";
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-gradient-to-b from-emerald-950 via-emerald-900 to-emerald-950 text-slate-900">
+      <div className="min-h-screen bg-white text-slate-900">
         <Routes>
           {/* QR generator as the main entry */}
           <Route path="/" element={<QRCodeGenerator />} />
