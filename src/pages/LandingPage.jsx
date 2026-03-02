@@ -17,7 +17,7 @@ const profileData = {
   social: {
     instagram: "https://www.instagram.com/yasmart_hyper?igsh=MXVlYnAyMGIwYXh3eA==",
     whatsapp: "https://wa.me/9746093590",
-    whatsappChannel: "Follow the YasMart Hypermarket Valiyakunnu channel on WhatsApp: https://whatsapp.com/channel/0029VaBTKNj72WTwcyatBI2q",
+    whatsappChannel: "https://whatsapp.com/channel/0029VaBTKNj72WTwcyatBI2q",
     facebook: "https://www.facebook.com/share/17cKtHdrye/",
     website: "https://your-portfolio.com",
   },
