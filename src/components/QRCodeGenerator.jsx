@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export default function QRCodeGenerator() {
   const landingUrl = useMemo(() => {
-    if (typeof window === "undefined") return "https://example.com/profile";
+    if (typeof window === "undefined") return "https://qr-social-media.vercel.app/profile";
     return `${window.location.origin}/profile`;
   }, []);
 
